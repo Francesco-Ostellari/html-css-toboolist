@@ -65,3 +65,11 @@ main {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px; 
 }
+.list {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.li-title {
+    margin-left: 20px;
+    margin-bottom: 20px;
+} 
