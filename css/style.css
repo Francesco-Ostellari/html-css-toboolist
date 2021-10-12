@@ -82,12 +82,26 @@ li {
     border-radius: 100%;
     width: 20px;
     height: 20px;
-    border: 1px solid #9FDACE; 
-    color:#9FDACE;
+    border: 1px solid #64C0A8; 
+    color:#64C0A8;
     font-weight: bold;
 }
+.cross {
+    background-color: white;
+    border-radius: 100%;
+    width: 20px;
+    height: 20px;
+    border: 1px solid red; 
+    color: red;
+    font-weight: bold;
+}
+
 .button-title {
     border:none;
     background-color: white;
+    font-size: 50px;
 
+}
+h2 {
+    display: inline;
 }
