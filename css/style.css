@@ -106,8 +106,30 @@ li {
     color: white;
     border-radius: 30px;
     padding: 5px 10px;
+    font-weight: bold;
 }
 #editorial {
     background-color: #5BB8F3;
+    border: none;
+}
+#q1-goals {
+    background-color: #9C72E4;
+    border: none;
+}
+#recruiting {
+    background-color: #64C0A8;
+    border: none;
+}
+#mobile {
+    background-color: orange;
+    border: none;
+}
+
+#website {
+    background-color: #D962A0;
+    border: none;
+}
+#sales {
+    background-color: #B0C926;
     border: none;
 }
