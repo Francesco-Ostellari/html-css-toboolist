@@ -120,7 +120,7 @@ h2{
     padding: 5px 10px;
 }
 /* id specifici per i colori dei bottoni laterali */
-#editorial {
+.editorial {
     background-color: #5BB8F3;
     border: none;
 }
