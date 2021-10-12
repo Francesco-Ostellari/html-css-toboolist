@@ -65,18 +65,22 @@ main {
     border-top-left-radius: 5px;
     border-top-right-radius: 5px; 
 }
+/* identazione lista */
 .list {
     margin-left: 10px;
     margin-top: 10px;
 }
+/* identazione titoli lista */
 .li-title {
     margin-left: 40px;
     margin-bottom: 20px;
 } 
+/* decorazione lista */
 li {
     list-style-type: none;
 }
 
+/* simbolo check */
 .check {
     background-color: white;
     border-radius: 100%;
@@ -86,6 +90,8 @@ li {
     color:#64C0A8;
     font-weight: bold;
 }
+
+/* simbolo cross */
 .cross {
     background-color: white;
     border-radius: 100%;
@@ -96,18 +102,26 @@ li {
     font-weight: bold;
 }
 
+/* bottoni titolo */
 .button-title {
     border:none;
     background-color: white;
     font-size: 2em;
 
 }
+/* display inline-block h2 */
+h2{
+    display: inline-block;
+}
+
+/* bottoni laterali */
 .button-right {
     color: white;
     border-radius: 30px;
     padding: 5px 10px;
     font-weight: bold;
 }
+/* id specifici per i colori dei bottoni laterali */
 #editorial {
     background-color: #5BB8F3;
     border: none;
@@ -133,3 +147,4 @@ li {
     background-color: #B0C926;
     border: none;
 }
+/* fine id specifici per i colori dei bottoni laterali */
