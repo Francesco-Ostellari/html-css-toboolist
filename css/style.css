@@ -4,31 +4,39 @@
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
 }
+/* colore body  */
 body {
     background-color:#F6F8F9;
 }
 
+/* colore e dimensione header  */
 header {
     background-color: white;
     height: 60px;
 }
+/* colore e dimensione h1 */
 header h1 {
     display: inline-block;
     line-height: 60px;
     color: #031732;
 }
+
+/* allineamento img */
 header img {
  vertical-align: middle;
 }
 
+/* proprietà nav */
 nav {
     background-color: white;
-    margin: 40px auto;
+    margin: 40px auto 5px;
     width: 70%;
     padding: 20px;
     border-top-left-radius: 5px;
     border-top-right-radius: 5px; 
 }
+
+/* proprietà button-task */
 .add-task {
     color: white;
     background-color: #5BB8F3;
@@ -37,6 +45,8 @@ nav {
     font-weight: bold;
     border: none;
 }
+
+/* proprietà button section */
 .add-section {
     color: lightgrey;
     background-color:white;
@@ -44,4 +54,14 @@ nav {
     border-radius: 5px;
     font-weight: bold;
     border: 1px solid grey;
+}
+
+/* proprietà main */
+main {
+    background-color: white;
+    margin: auto;
+    width: 70%;
+    padding: 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px; 
 }
