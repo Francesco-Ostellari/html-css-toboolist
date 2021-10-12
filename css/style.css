@@ -99,9 +99,15 @@ li {
 .button-title {
     border:none;
     background-color: white;
-    font-size: 50px;
+    font-size: 2em;
 
 }
-h2 {
-    display: inline;
+.button-right {
+    color: white;
+    border-radius: 30px;
+    padding: 5px 10px;
+}
+#editorial {
+    background-color: #5BB8F3;
+    border: none;
 }
