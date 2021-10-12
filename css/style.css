@@ -13,18 +13,20 @@ body {
 /* colore e dimensione header  */
 header {
     background-color: white;
-    height: 60px;
+    height: 70px;
+    padding: 10px 0 10px 10px;
 }
 /* colore e dimensione h1 */
 header h1 {
     display: inline-block;
-    line-height: 60px;
+    vertical-align: middle;
     color: #031732;
 }
 
 /* allineamento img */
 header img {
  vertical-align: middle;
+ height: 100%;
 }
 
 /* proprietà nav */
