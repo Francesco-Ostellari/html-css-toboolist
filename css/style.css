@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 /* colore body  */
 body {
@@ -42,7 +43,6 @@ nav {
     background-color: #5BB8F3;
     padding: 5px;
     border-radius: 5px;
-    font-weight: bold;
     border: none;
 }
 
@@ -52,7 +52,6 @@ nav {
     background-color:white;
     padding: 5px;
     border-radius: 5px;
-    font-weight: bold;
     border: 1px solid grey;
 }
 
@@ -88,7 +87,6 @@ li {
     height: 20px;
     border: 1px solid #64C0A8; 
     color:#64C0A8;
-    font-weight: bold;
 }
 
 /* simbolo cross */
@@ -99,7 +97,6 @@ li {
     height: 20px;
     border: 1px solid red; 
     color: red;
-    font-weight: bold;
 }
 
 /* bottoni titolo */
@@ -119,7 +116,6 @@ h2{
     color: white;
     border-radius: 30px;
     padding: 5px 10px;
-    font-weight: bold;
 }
 /* id specifici per i colori dei bottoni laterali */
 #editorial {
